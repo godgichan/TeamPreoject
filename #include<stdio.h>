@@ -1,2 +1,6 @@
 #include<stdio.h>
-dfadad
+
+void main() 
+{
+    printf("hello");
+}
